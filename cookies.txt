@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+temank3.id	TRUE	/	FALSE	1999999999	ci_session	d4bb25c86a02d662a310536e1478fefba32ebf39
+temank3.id	TRUE	/	FALSE	1999999999	samesite	Lax
+
